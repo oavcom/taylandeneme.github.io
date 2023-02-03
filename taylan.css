@@ -1,0 +1,42 @@
+body {
+    background-image: url('images/basket.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 2000px;
+}
+
+.header {
+    border: 1px solid black;
+    height: 70px;
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+    background-color: #513b56;
+}
+
+p {
+    font-size: 50px;
+    color: #ff6b35;
+}
+
+.item1,
+.item2,
+.item3,
+.item4,
+.item5,
+.item6 {
+    width: 250px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    color: #ff6b35;
+    padding: 50px 0;
+    background-color: #513b56;
+
+}
+
+span {
+    background-color: yellow;
+}
